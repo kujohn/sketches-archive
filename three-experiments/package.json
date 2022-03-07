@@ -1,0 +1,9 @@
+{
+  "name": "TEMPLATE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.101.1"
+  }
+}

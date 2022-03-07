@@ -1,0 +1,2 @@
+(use 'happy_zhukovsky.core)
+(rand 255)

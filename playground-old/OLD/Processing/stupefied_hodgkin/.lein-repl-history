@@ -1,0 +1,7 @@
+(use 'git commit --amend --reset-author
+git push --set-upstream origin master
+(use 'stupefied_hodgkin.core)
+(use :reload 'stupefied_hodgkin.core)
+(use 'stupefied_hodgkin.core)
+(use :reload-all 'stupefied_hodgkin.core)
+(use 'stupefied_hodgkin.core)

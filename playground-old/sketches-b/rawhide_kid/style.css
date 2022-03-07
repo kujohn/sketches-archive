@@ -1,0 +1,21 @@
+body {
+    background: #eee;
+}
+
+.p5Canvas {
+    display: block !important;
+    margin: 0 auto;
+}
+
+#info {
+    display:none;
+    font-family: monospace;
+    font-size: 10px;
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    background: #fff;
+    padding: .5rem;
+    border: 1px dotted #333;
+    z-index: 100;
+}
