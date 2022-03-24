@@ -1,0 +1,26 @@
+{
+  "name": "sketches",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kujohn/sketches.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kujohn/sketches/issues"
+  },
+  "homepage": "https://github.com/kujohn/sketches#readme",
+  "dependencies": {
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0",
+    "p5": "^1.4.0",
+    "regl": "^2.1.0"
+  }
+}

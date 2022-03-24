@@ -1,0 +1,6 @@
+# github.com/ajstarks/svgo v0.0.0-20200725142600-7a3c8b57fecb
+## explicit
+github.com/ajstarks/svgo
+# github.com/aquilax/go-perlin v1.0.0
+## explicit
+github.com/aquilax/go-perlin
